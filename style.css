@@ -9,7 +9,7 @@ body {
 /* Main container for the slideshow and metadata */
 #photoBooth {
     padding: 25px; /* Increased padding for better spacing */
-    max-width: 1500px; /* Increased max-width for larger display */
+    max-width: 500px; /* Increased max-width for larger display */
     width: 90%; /* Keeps width responsive */
     margin: auto;
     background-color: rgba(255, 255, 255, 0.9);
@@ -64,7 +64,7 @@ body {
     background-color: #f8f9fa; /* Light background to distinguish from main area */
     border-radius: 4px;
     color: #333;
-    font-size: 2rem; /* Slightly larger text for readability */
+    font-size: 1rem; /* Slightly larger text for readability */
 }
 
 /* Style for each paragraph in details */
