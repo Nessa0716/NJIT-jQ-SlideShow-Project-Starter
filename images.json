@@ -1,82 +1,64 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
+            "imgPath": "img/places/HarryR.jpg",
+            "imgName": "Harry Styles",
+            "description": "description",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
+            "imgPath": "img/places/Harry.jpg",
+            "imgName": "Harry Styles",
+            "description": "description",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
+            "imgPath": "img/places/TomR.jpg",
+            "imgName": "Tom Louis",
             "description": "Eiffel Tower",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
+            "imgPath": "img/places/Tom.jpg",
+            "imgName": "Tom Louis",
             "description": "Greek coastline",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
+            "imgPath": "img/places/LiamR.jpg",
+            "imgName": "Liam Payne",
             "description": "Budapest skyline",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
+            "imgPath": "img/places/Liam.jpg",
+            "imgName": "Liam Payne",
             "description": "Taj Mahal",
             "date": "01/06/2016"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
+            "imgPath": "img/places/NiallR.jpg",
+            "imgName": "Italy",
             "description": "Venice",
             "date": "01/07/2016"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
+            "imgPath": "img/places/Niall.jpg",
+            "imgName": "Japan",
             "description": "Hirosaki Castle",
             "date": "01/08/2016"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
+            "imgPath": "img/places/ZayneR.jpg",
+            "imgName": "South Korea",
             "description": "Seoul",
             "date": "01/09/2016"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
+            "imgPath": "img/places/Zayne.jpg",
+            "imgName": "Norway",
             "description": "Countryside mountains",
             "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
         }
   ]
 }
