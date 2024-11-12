@@ -5,7 +5,7 @@ const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
   $('.details').hide() // Hide details initially
-
+ 
   // Call a function here to start the timer for the slideshow
 
   // Select the moreIndicator button and add a click event to:
