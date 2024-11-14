@@ -1,10 +1,10 @@
-let mCurrentIndex = 0 // Tracks the current image index
-let mImages = [] // Array to hold GalleryImage objects
-const mUrl ='images.json' // Replace with actual JSON URL
-const mWaitTime = 5000 // Timer interval in milliseconds
+let mCurrentIndex = 0
+let mImages = [] 
+const mUrl ='images.json' 
+const mWaitTime = 5000 
 
 $(document).ready(() => {
-  $('.details').hide() // Hide details initially
+  $('.details').hide() 
 
   // Call a function here to start the timer for the slideshow
 
