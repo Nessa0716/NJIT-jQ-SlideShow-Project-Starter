@@ -1,15 +1,17 @@
 body {
     overflow-x: hidden;
     font-family: 'Century Gothic', sans-serif;
-    background-image: url('https://wallpapers.com/images/hd/one-direction-laptop-1920-x-1080-gkfu56mefl1bjmwj.jpg');
+    background-image: url('https://wallpapers.com/images/high/one-direction-laptop-nlsrnihfjtykerdw.webp');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    background-color: #000;
 }
 
 #photoBooth {
-    padding: 25px;
-    max-width: 500px;
+    po
+    padding: 2px;
+    max-width: 400px;
     width: 90%;
     margin: auto;
     background-color: #ff0000;
