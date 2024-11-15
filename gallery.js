@@ -30,15 +30,9 @@ function fetchJSON () {
     type: "GET",
     url: mUrl,
     success: function (data) {
-      mImages = data.images
       //change photo
-      $("#photo").attr("src","img/paris.jpg");
-      // meta 1 
-      $(".name").text("Name: France");
-       // meta 2
-       $(".description").text(" Description: Effiel Tower");
-      // meta 3
-      $(".snow").text("Snow in native language:Neige");
+      mImages = data.images
+      swapPhoto()
     }
   });
   // On success, parse the JSON and push each image object into mImages array
@@ -50,6 +44,8 @@ function swapPhoto () {
   // Access mImages[mCurrentIndex] to update the image source and details
   // Update the #photo element's src attribute with the current image's path
   // Update the .Name, .description, and .date elements with the current image's details
+  let imgInfo = mImages[mCurrentIndex]
+  $('#photo').attr('src', imgInfo.imgPath)
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
